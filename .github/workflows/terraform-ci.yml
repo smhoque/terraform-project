@@ -1,4 +1,4 @@
-name: Terraform CI/CD
+name: Terraform CI/CD pipe
 
 on:
   pull_request:
